@@ -11,7 +11,7 @@ user interface with simple controls.
 - **What's the price?**
   Dragoon Tank System is FREE, as are all DD products.
 - **Will it require spearhead?**
-  DTS does not require a spearhead installation to run. However, we strongly recommend using spearhead for
+  DTS does not require a full spearhead installation to run. However, we strongly recommend using spearhead for
   the best experience and compatibility.
 
 ## Credits
